@@ -4,7 +4,7 @@
 
 ![sample demonstration](https://github.com/nathanchenseanwalter/list_cubic_spline/blob/main/sample.png?raw=true)
 
-Cubic interpolation (Bezier, Hermite, Cardinal, B-Spline) written in list comprehension and vectorization, no Numpy! Used to draw trajectories between points
+Cubic interpolation (Bezier, Hermite, Cardinal, B-Spline) written in list comprehension and vectorization, no Numpy! Used to draw trajectories between points.
 
 Curve trajectories are all given by
 
