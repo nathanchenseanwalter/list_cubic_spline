@@ -86,3 +86,5 @@ $s$ is the tension, and can vary from 0 to 1. 0 is linear interpolation, 0.5 is 
 $P$ denotes control points that lie on the curve</br>
 $H$ denotes control points that don't lie on the curve (handles)</br>
 (*) starred denotes points that aren't interpolated</br>
+
+![alt text](https://github.com/nathanchenseanwalter/list_cubic_spline/blob/main/sample.png?raw=true)
