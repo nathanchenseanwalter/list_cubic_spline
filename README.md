@@ -74,10 +74,10 @@ B \times C = \begin{bmatrix}
 \end{bmatrix}
 
 \begin{bmatrix}
-H_1* \\
+H_1 \\
 H_2 \\
 H_3 \\
-H_4* 
+H_4 
 \end{bmatrix}
 ```
 
