@@ -1,5 +1,10 @@
 # list_cubic_spline
-Cubic interpolation (Bezier, Hermite, Cardinal, B-Spline) written in list comprehension and vectorization, no Numpy!
+
+### Cubic Interpolation
+
+![sample demonstration](https://github.com/nathanchenseanwalter/list_cubic_spline/blob/main/sample.png?raw=true)
+
+Cubic interpolation (Bezier, Hermite, Cardinal, B-Spline) written in list comprehension and vectorization, no Numpy! Used to draw trajectories between points
 
 Curve trajectories are all given by
 
@@ -86,5 +91,3 @@ $s$ is the tension, and can vary from 0 to 1. 0 is linear interpolation, 0.5 is 
 $P$ denotes control points that lie on the curve</br>
 $H$ denotes control points that don't lie on the curve (handles)</br>
 (*) starred denotes points that aren't interpolated</br>
-
-![alt text](https://github.com/nathanchenseanwalter/list_cubic_spline/blob/main/sample.png?raw=true)
